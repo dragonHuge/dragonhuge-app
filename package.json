@@ -1,0 +1,21 @@
+{
+  "name": "dragonhuge-app",
+  "version": "1.0.0",
+  "description": "把个人站 https://dragonhuge.github.io 装进手机：Android 先行，iOS 后续。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/cli": "^8.6.2",
+    "@capacitor/core": "^8.6.2"
+  }
+}

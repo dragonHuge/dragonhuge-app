@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DragonHuge</string>
+    <string name="title_activity_main">DragonHuge</string>
+    <string name="package_name">com.dragonhuge.app</string>
+    <string name="custom_url_scheme">com.dragonhuge.app</string>
+</resources>

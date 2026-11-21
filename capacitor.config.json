@@ -1,0 +1,9 @@
+{
+  "appId": "com.dragonhuge.app",
+  "appName": "DragonHuge",
+  "webDir": "www",
+  "server": {
+    "url": "https://dragonhuge.github.io",
+    "androidScheme": "https"
+  }
+}
