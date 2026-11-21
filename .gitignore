@@ -2,7 +2,7 @@ node_modules/
 android/.gradle/
 android/app/build/
 android/build/
-.huishu-design/
+.huashu-design/
 .idea/
 *.iml
 .DS_Store
