@@ -1,6 +1,6 @@
 {
   "name": "dragonhuge-app",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "把个人站 https://dragonhuge.github.io 装进手机：Android 先行，iOS 后续。",
   "main": "index.js",
   "directories": {
