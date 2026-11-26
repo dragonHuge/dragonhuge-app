@@ -1,6 +1,6 @@
 {
   "name": "dragonhuge-app",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "把个人站 https://dragonhuge.github.io 装进手机：Android 先行，iOS 后续。",
   "main": "index.js",
   "directories": {
@@ -16,6 +16,7 @@
   "dependencies": {
     "@capacitor/android": "^8.6.2",
     "@capacitor/app": "^8.1.2",
+    "@capacitor/browser": "^8.0.5",
     "@capacitor/cli": "^8.6.2",
     "@capacitor/core": "^8.6.2"
   }

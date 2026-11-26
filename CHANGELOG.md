@@ -4,6 +4,14 @@
 
 ## [Unreleased]
 
+## [0.3.1] - 2026-11-26
+
+### Added
+- 内置浏览器插件 `@capacitor/browser`：禁止内嵌的站点（微信 / 知乎 / OpenAI 等）改为在 App 内打开，不再整页跳转到 Chrome
+
+### Changed
+- versionCode 301 / versionName 0.3.1
+
 ## [0.3.0] - 2026-11-22
 
 ### Added
